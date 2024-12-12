@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chisnucha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 - 📫 How to reach me **backham.2154@gmail.com**
 
