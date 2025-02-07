@@ -5,7 +5,7 @@ A **passionate frontend developer** from **Thailand** 🇹🇭
 ## 🚀 About Me
 - 🎨 Frontend Developer | 💻 Full Stack Enthusiast
 - 🌱 Currently learning **Vue.js & Advanced React**
-- 💬 Ask me about **Html, Css, JavaScript, React, Tailwind CSS, UX/UI Design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, UX/UI Design**
 - 🎯 Seeking growth opportunities in frontend development
 
 ## 🛠️ Tech Stack
